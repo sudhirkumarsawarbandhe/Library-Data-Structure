@@ -1,0 +1,7 @@
+0dk pp 2 3
+re uy 3 4
+dk pp 3 6
+dk pp 13 16
+op iu 2 1
+op it 8 5
+op iu 4 7
